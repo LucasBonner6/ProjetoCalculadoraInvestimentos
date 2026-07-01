@@ -1,5 +1,4 @@
 import { generateReturnsArray } from "./src/investmentGoals.js";
-import { Chart } from "chart.js/auto";
 import { createTable } from "./src/table.js";
 
 const finalMoneyChart = document.getElementById("final-money-distribution");
